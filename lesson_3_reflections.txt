@@ -1,1 +1,6 @@
 When would you want to create a remote repository rather than keeping all your work local.
+  
+  You might want to create a remove repository when you are working on a project with multiple people or if you are working on a
+  project from different computers.
+  
+
