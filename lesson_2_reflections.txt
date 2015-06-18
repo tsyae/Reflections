@@ -12,3 +12,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	Use git diff after adding a file to the staging area but before editing it.
+
+What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
+	Branches would help when you want to maintain multiple versions of the same files (different languages, UI, back-end, experimental features, etc.).  Branches would help in this case because you can see the point at which the code diverges and (though commit messages) what changes have been made since the branch points.
