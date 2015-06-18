@@ -1,0 +1,7 @@
+What happesn when you initialize a repository?  Why do you need to do it?
+
+	When you initialize a repository, a hidden folder (.git) is created containing your revision history.  This tells git to keep track of the contents of this directory.
+
+Adding more stuff to try to get this to work.
+
+Adding yet more stuff, sigh....
