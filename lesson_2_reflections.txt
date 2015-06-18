@@ -5,3 +5,7 @@ What happesn when you initialize a repository?  Why do you need to do it?
 Adding more stuff to try to get this to work.
 
 Adding yet more stuff, sigh....
+
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+
+	The staging area contains a list of the files to be commited.  Commiting only certain files in a given commit allows only files that need to be changed together to updated as part of the same commit.  This might allow more collaboration -- since some people could work with one subset of files and other people could work with a nother subset of files.
