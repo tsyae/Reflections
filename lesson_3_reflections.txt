@@ -1,6 +1,9 @@
-When would you want to create a remote repository rather than keeping all your work local.
+1. When would you want to create a remote repository rather than keeping all your work local.
   
   You might want to create a remove repository when you are working on a project with multiple people or if you are working on a
   project from different computers.
   
+2. Why might you want to always pull changes manually rather than gaving Git automatically stay up-to-date with your remote repository?
+	
+	If get were to automatically stay up-to-date you could pull code to your local machine that woudl break the code you are working on (if you are working on the same branch and the commits are not properly merged).
 
