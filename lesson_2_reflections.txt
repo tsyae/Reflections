@@ -19,3 +19,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	It is easy to see which commit is the parent of the current commit using diagrams.
+
+What is the result of merging two branches together?  Why to we represent it in the diagram the way we do?
+	The result of merging two branches together is a single version the cointains edits from both branches (while at the same time preserving the commits from each branch.)
