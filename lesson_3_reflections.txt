@@ -7,6 +7,12 @@
 	
 	If get were to automatically stay up-to-date you could pull code to your local machine that woudl break the code you are working on (if you are working on the same branch and the commits are not properly merged).
 
-Describe the differences between forks, clones, and branches. When would you use one instead of another.
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another.
 
 	A clone is a copy of a git repository.  A fork is a clone that is made on GitHub of a repo owned by another GitHub user.  A branch a chain of commits in a repository that has a parent (previous commit) in common with a diverging series of commits.  Typically the main branch is called the master and the other games are given descriptive names.
+
+4. What is the benefit of having a copy of the last known state of the remote storred locally?
+
+	It is useful to have a copy of the last known state storred locally in case you will be away from the internet for some time.  Then you can merge your code into the remote branch and all that is required when you again have internet is a fast-forwad merge (I beleive you wouldn't need to wory about resolving conflicts).
+
+5. 
