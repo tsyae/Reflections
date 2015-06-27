@@ -15,4 +15,6 @@
 
 	It is useful to have a copy of the last known state storred locally in case you will be away from the internet for some time.  Then you can merge your code into the remote branch and all that is required when you again have internet is a fast-forwad merge (I beleive you wouldn't need to wory about resolving conflicts).
 
-5. 
+5. How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+
+	An alternative to git/GitHub would be  a version control system such as google docs.  The advantage git has over Google Docs is that it is easier to see where specific changes are made to files and it is easier to merge changes made by different people to make a unified version.  The disadvantage of git/GitHub is (if I understand correctly) is that these advantages are only easy to take advantage of for plain text files.
